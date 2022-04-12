@@ -20,7 +20,7 @@
 --Lightgrayishblue: hsl(210, 46%, 95%);
 }
 body{
-    background:var(--Lightgray);
+    background:var(--Lightgrayishblue));
     font-family: 'Barlow Semi Condensed';
     scroll:var(--Lightgrayishblue);
 }
@@ -40,28 +40,33 @@ body{
     padding: 20px;
     border-radius: 10px;
     font-size: 13px;
+    box-shadow: -3px 4px 21px -1px rgba(0,0,0,0.32);
 }
 .testimonial-2{
     background:var(--Verydarkgrayishblue);
     color: var(--White);
     padding: 20px;
     border-radius: 10px;
+    box-shadow: -3px 4px 21px -1px rgba(0,0,0,0.32);
 }
 .testimonial-3{
     background:var(--White);
     padding: 20px;
     border-radius: 10px;
+    box-shadow: -3px 4px 21px -1px rgba(0,0,0,0.32);
 }
 .testimonial-4{
     background:var(--Verydarkblackishblue);
     color: var(--White);
     padding: 20px;
     border-radius: 10px;
+    box-shadow: -3px 4px 21px -1px rgba(0,0,0,0.32);
 }
 .testimonial-5{
     background:var(--White);
     padding: 20px;
     border-radius: 10px;
+    box-shadow: -3px 4px 21px -1px rgba(0,0,0,0.32);
 }
 .user{
     display:flex;
